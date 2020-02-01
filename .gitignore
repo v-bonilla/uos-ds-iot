@@ -1,0 +1,8 @@
+contiki-*/
+vmachine-hdd/
+.vscode/
+**/obj_xm1000/
+**/*.ihex
+**/*.xm1000
+**/symbols.*
+**/contiki-*
